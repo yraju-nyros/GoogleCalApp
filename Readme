@@ -1,0 +1,18 @@
+google calendar 
+
+
+With the Gcal4ruby gem.
+
+GCal4Ruby is a full featured wrapper for the google calendar API.  GCal4Ruby implements
+
+all of the functionality available through the Google Calnedar API, including permissions,
+
+attendees, reminders and event recurrence. 
+
+I have managed google calendar events of google users in this application.
+
+run the app : EMAIL='your_mail@email.com' PASSWORD='PASSWORD' bundle exec rails s -p 2000
+
+Need this gem in Gemfile :: gem 'gcal4ruby', :git => 'https://github.com/wimm/GCal4Ruby.git'
+
+This Gem interface to the our App the Google Calendar
